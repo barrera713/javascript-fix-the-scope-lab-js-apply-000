@@ -12,10 +12,11 @@ function yourAnimal() {
    return animal
    console.log(yourAnimal());
 }
-const add2 = 2
+
 function add2(n) {
+  const add2 = 2
   return n + two
-} console.log(add2 + n + two);
+} 
 
   // Feel free to move things around!
 
