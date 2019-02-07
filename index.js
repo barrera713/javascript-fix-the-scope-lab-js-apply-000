@@ -12,7 +12,7 @@ function yourAnimal() {
    return animal
    console.log(yourAnimal());
 }
-const n = Math.floor()
+const n = Math.floor(Math.random)
 function add2(n) {
   return n + two
 } 
