@@ -12,7 +12,7 @@ function yourAnimal() {
    return animal
    console.log(yourAnimal());
 }
-const 2 = two
+const two = 2
 function add2(n) {
   return n + two
   
